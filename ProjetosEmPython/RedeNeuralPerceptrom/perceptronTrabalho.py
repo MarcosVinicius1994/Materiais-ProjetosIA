@@ -1,5 +1,6 @@
 #Eufrasio junio 17.1.8131
 #Marcos Vinicius Timoteo 16.2.8388
+#Periodo 6
 
 #Trabalho modificado para fins da execução dos requisitos do trabalho 2 de Inteligencia Artificial
 import random
